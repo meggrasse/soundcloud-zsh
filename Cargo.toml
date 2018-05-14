@@ -1,0 +1,6 @@
+[package]
+name = "soundcloud"
+version = "0.1.0"
+authors = ["meggrasse <meggrasse@u.northwestern.edu>"]
+
+[dependencies]
